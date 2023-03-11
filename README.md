@@ -2,7 +2,7 @@
 ## Bone Cancer Detection Using Image Segmentation
 
 by
-Madhu Kiran, Bharatha
-Sai Ketan, Gande
-Charan Reddy, Jakkireddy
+Madhu Kiran Bharatha<br/>
+Sai Ketan Gande<br/>
+Charan Reddy Jakkireddy<br/>
 
